@@ -1,6 +1,5 @@
-name = "the-coderz"
+//wrangler.toml
+name = "next-on-cloudflare"
 compatibility_date = "2024-07-29"
-pages_build_output_dir = ".next/"
-[build]
- 
-
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
