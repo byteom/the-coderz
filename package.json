@@ -81,13 +81,13 @@
     "@types/react-highlight": "^0.12.8",
     "@types/react-syntax-highlighter": "^15.5.13",
     "eslint": "^8",
-    "eslint-config-next": "14.2.7",
+    "eslint-config-next": "^15.0.3",
     "postcss": "^8",
     "prisma": "^6.0.1",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   },
   "engines": {
-  "node": "^22.12.0"
-}
+    "node": ">=22.12.0"
+  }
 }
