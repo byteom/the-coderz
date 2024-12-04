@@ -71,6 +71,7 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.6",
     "@next/bundle-analyzer": "^15.0.3",
     "@tailwindcss/typography": "^0.5.15",
     "@types/bcrypt": "^5.0.2",
